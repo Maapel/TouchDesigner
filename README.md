@@ -10,3 +10,4 @@
 - SOPs - Surface Operators - 3D points, polygons and other 3D "primitives".
 - DATs - Data Operators - ASCII text as plain text, scripts, XML, or organized in tables of cells.
 - MATs - Material Operators - materials and shaders.
+
