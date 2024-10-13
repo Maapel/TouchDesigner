@@ -1,6 +1,6 @@
 # TouchDesigner
 
-## links
+## Links
 - https://github.com/YCAMInterlab/mapamok
 - https://www.youtube.com/watch?v=0z-PxjPOOCY
 - Creating custom components -  https://www.youtube.com/watch?v=oTFZXL2xbvw
