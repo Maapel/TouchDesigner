@@ -5,6 +5,7 @@
 - https://www.youtube.com/watch?v=0z-PxjPOOCY
 - Creating custom components -  https://www.youtube.com/watch?v=oTFZXL2xbvw
 - https://chatgpt.com/share/670b8043-3a34-8008-ad35-e46c847f8cc7
+- Realtime Diffusion : https://www.youtube.com/watch?v=X4rlC6y1ahw
 
 
 ## Operator Family 
